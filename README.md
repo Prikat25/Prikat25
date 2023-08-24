@@ -1,4 +1,4 @@
-### Hewdy!👋 It's [Priyanka Reddy a.k.a PragmaticCloudCoder!](https://prikat25.github.io/)
+### Howdy!👋 It's [Priyanka Reddy a.k.a PragmaticCloudCoder!](https://prikat25.github.io/)
 
 <br />
 
