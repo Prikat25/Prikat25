@@ -1,19 +1,9 @@
-### Hello World 👋 It's [Priyanka Reddy a.k.a PragmaticCloudCoder!](https://prikat25.github.io/)
+### Hewdy!👋 It's [Priyanka Reddy a.k.a PragmaticCloudCoder!](https://prikat25.github.io/)
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-reddy-485aa9a1/)
 <br />
-
-<abc>
-<h1 align="center">Hi 👋, I'm Priyanka Reddy</h1>
-<h3 align="center">Cloud & DevOps Enthusiast</h3>
-<br>
-<div style="text-align: center;">
-    <img src="https://cdn.dribbble.com/users/1480650/screenshots/4739771/autodevops-dribbble-gif.gif" 
-        alt="Coder GIF" width="500" style="display: inline-block;">
-</div>
-</abc>
 
 - 👨‍💻 I'm a passionate full-stack engineer with expertise in Python, Node.js, Go, Redis, Oracle, MySQL, and JavaScript.
 
@@ -43,6 +33,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Prikat25&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Prikat25&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prikat25&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/username=Prikat25&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Sakigo's github stats](https://github-readme-stats.vercel.app/api?username=Prikat25&show_icons=true&hide_border=true)
+![Priyanka's github stats](https://github-readme-stats.vercel.app/api?username=Prikat25&show_icons=true&hide_border=true)
