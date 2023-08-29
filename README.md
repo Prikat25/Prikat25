@@ -10,8 +10,6 @@
 
 ### Howdy!👋 It's [Priyanka Reddy a.k.a PragmaticCloudCoder!](https://prikat25.github.io/)
 
-<br />
-
 - 👨‍💻 I'm a passionate full-stack engineer with expertise in Python, Node.js, Go, Redis, Oracle, MySQL, and JavaScript.
 
 - 💬 I create robust and scalable solutions to tackle complex business problems.
